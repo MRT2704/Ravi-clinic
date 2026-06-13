@@ -49,7 +49,7 @@ export default function AboutDoctor() {
               <div className="relative overflow-hidden rounded-[32px] border-[10px] border-white bg-white shadow-soft aspect-square sm:aspect-[4/5]">
                 <img
                   id="doctor-img"
-                  src="/src/assets/images/regenerated_image_1781362729698.jpg"
+                  src="/src/assets/images/regenerated_image_1781362729698.webp"
                   alt="Dr. Ravi, MD - Chief Medical Director and Primary Physician"
                   referrerPolicy="no-referrer"
                   className="h-full w-full object-cover transition-transform duration-700 group-hover:scale-102 select-none"
