@@ -1,0 +1,6 @@
+{
+  "name": "Ravi's Clinic",
+  "description": "A responsive, modern, and accessible medical landing page for Ravi's Clinic, including interactive appointment scheduling, a services directory, credentials overview, and FAQs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

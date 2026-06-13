@@ -1,0 +1,32 @@
+@import "tailwindcss";
+
+@theme {
+  --font-serif: "Georgia", serif;
+  --font-sans: "Verdana", Arial, sans-serif;
+  --color-primary: #1A365D;
+  --color-secondary: #4A90E2;
+  --color-action: #FF6B6B;
+  --color-charcoal: #2D3748;
+}
+
+/* Natural Tones styling adjustments */
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: var(--font-sans);
+  color: var(--color-charcoal);
+  background-color: #F8F9FA;
+}
+
+::selection {
+  background-color: #FF6B6B;
+  color: #FFFFFF;
+}
+
+/* Custom soft shadow layer to match the premium clinical clean look */
+.shadow-soft {
+  box-shadow: 0 4px 20px -2px rgba(26, 54, 93, 0.08);
+}
+
